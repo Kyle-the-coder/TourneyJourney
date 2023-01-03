@@ -1,0 +1,291 @@
+@charset "UTF-8";
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+/* Login and Reg Page */
+
+
+/* title section */
+.title{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-size: 325px 175px;
+	
+}
+
+.title_logo{
+	box-shadow: 7px 7px black;
+	font-family: 'Lobster', cursive;
+}
+
+.nav_links{
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.nav_link_1{
+	box-shadow: 3px 3px black;
+}
+
+.nav_link_2{
+	box-shadow: 3px 3px black;
+}
+
+/* reg confirmed section */
+.reg_confirmed{
+	display: flex;
+	justify-content: center;
+	
+}
+
+
+/* quote section */
+
+.top {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.quote{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.quote_text{
+	font-family: 'Lobster', cursive;
+}
+
+.quote_font{
+	box-shadow: 7px 7px darkblue;
+}
+
+.quote_section{
+	background-size: 20% 100%;
+}
+	
+
+
+/* about me section */
+.about_title{
+	font-family: 'Lobster', cursive;
+}
+
+.about_img{
+	width: 60%;
+}
+
+.about_img_p{
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+	
+}	
+
+.img_1{
+	width: 35%;
+}
+
+
+/* direction section */
+.direction{
+	display: flex;
+	justify-content: center;
+}
+
+.direction_text_1{
+	font-family: 'Lobster', cursive;
+}
+
+/* login and reg section */
+.content_top{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.content {
+	display: flex;
+	justify-content: space-between;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.content_2{
+	width: 45%;
+}
+
+.content_3{
+	width: 50%;
+	margin: 0 auto;
+
+}
+
+/* Dashboard Page */
+
+/* Main Content Section Dashboard */
+.main_content{
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+}
+
+.direction_text{
+	font-family: 'Lobster', cursive;
+	box-shadow: 3px 3px black;
+}
+
+.table_shadow{
+	box-shadow: 3px 3px black;
+}
+
+.ad_space1{
+	width: 100%;
+}
+
+/* Middle User Section*/
+
+.user_img_1{
+	width: 100%;
+	
+}
+
+
+.likes {
+	display: flex;
+	justify-content: space-between;
+}
+
+.like_button{
+	width: 75px;
+	height: 55px;
+	box-shadow: 3px 3px black;
+}
+
+.comment_box > p{
+	margin: 0;
+	padding: 0;
+}
+
+.welcome_content{
+	width: 45%;
+	box-shadow: 7px 7px darkblue;
+	background-color: silver;
+}
+
+/* Right Section */
+
+.upcoming_events{
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.ad_space{
+	width: 50px;
+}
+
+.upcoming_content{
+	width: 25%;
+	display: flex;
+	flex-direction: column;
+	box-shadow: 7px 7px darkorange;
+	background-color: silver;
+}
+
+
+/* left section*/
+.left_section{
+	box-shadow: 7px 7px darkorange;
+	background-color: silver;
+	width: 25%;
+}
+
+
+/* Create Event Page*/
+
+/* left ad space*/
+.left_ad_space{
+	width: 25%;
+}
+
+.left_ad{
+	width: 100%;
+}
+
+/* Create Event Form */
+.create_event{
+	width: 45%;
+	background-color: silver;
+}
+
+/* Show One Event Detail Page */
+
+.main_content_1{
+	background-color: silver;
+	display: flex;
+	justify-content: space-between;
+}
+
+/* Left Side details and Comment Section */
+
+.left_side{
+	width: 55%;
+}
+
+.buttons_1{
+	display: flex;
+	
+}
+
+.slide_content{
+	width: 100%;
+	height: 150px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.a_tag{
+	display: flex;
+	align-items: center;
+}
+
+/* Right Side User Image /Sign up/delete/ad space */
+
+.right_side{
+	width: 40%;
+}
+
+.user_img{
+	width:100%;
+	
+}
+
+
+
+
+
+	
+	
+
+
+
+
+	
+
+
+
+
+
+
+
