@@ -24,4 +24,7 @@ Generates a tournament bracket using Java get and post request to access user da
 
 https://user-images.githubusercontent.com/111798115/212786560-f7c81d63-3435-4cfa-8e23-ce2f56882089.mp4
 
+---
+In conclusion I enjoyed the process of this assignment, it was quite a journey hence the name Tourney Journey. This was by far one of the most satifying projects I have done yet. Not everything is full-proof as it is not a fully developed application, just the mvp. Thank you for taking the time to look at my project!
+
 
