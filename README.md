@@ -1,5 +1,5 @@
 # TourneyJourney
-Full Stack web app, this is my 2.0 version of Battle Events Inc. This one is written in Java using Spring Boot framework and a MySQL database. User's can now comment, like, and generate a tournament bracket using their event participants.
+Full Stack web app, this is my 2.0 version of Battle Events Inc. This one is written in Java using Spring Boot framework and MySQL database. User's can now comment, like, and generate a tournament bracket using their event participants.
 ---
 
 Architects a user profile using Java OOP to access the user information for full CRUD functionality and application. User and event information stored in MySQL database to be later accessed and displayed. Password security using Bcrypt:
