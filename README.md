@@ -12,7 +12,7 @@ Styled with CSS3 and Bootstrap for an interactive and colorful environment where
 https://user-images.githubusercontent.com/111798115/212785562-e632c4f6-a1a6-41d6-996a-8318bdaa3c3e.mov
 
 ---
-Employed Spring Boot framework to give users the option of creating, posting, hosting, likes, comments, and even sign up for events using one to many, and many to many relationships displayed with JSX and JSTL conditional rendering:
+Employed Spring Boot framework to give users the option of creating, posting, hosting, likes, comments, and even sign up for events using one to many, and many to many relationships displayed with JSP and JSTL conditional rendering:
 
 
 
